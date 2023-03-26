@@ -1,2 +1,3 @@
 # youngfoo.github.io
-doc collection for nlp
+
+This is a blog site about natural language processing.
