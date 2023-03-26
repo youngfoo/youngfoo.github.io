@@ -1,4 +1,4 @@
 ## 机器学习
 
-- [条件随机场](machine_learning/crf.html)
+- [条件随机场](machine_learning/crf)
 
