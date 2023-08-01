@@ -6,6 +6,6 @@
 - [InstructGPT RLHF](https://youngfoo.github.io/rlhf)
 - [QA](https://youngfoo.github.io/qa_survey)
 
-## 机器学习
+## machine learning
 
 - [条件随机场](https://youngfoo.github.io/crf)
