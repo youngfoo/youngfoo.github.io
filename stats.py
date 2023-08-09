@@ -1,0 +1,1 @@
+open('paper.md', 'r').read().split(' ')
