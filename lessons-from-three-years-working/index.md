@@ -1,23 +1,19 @@
-# lessons from three years working experience
+# 工作三年的总结
 
-If you ask me if there is a big difference between people with three years working experience and graduates, my answer is yes! After all, given three years you can graduate from school for the second time.
+最近对三年的成长和收获做了梳理和总结。虽说每个人的成长进度是不一样的，但人生路上总有一些共性问题，还是值得后来人借鉴的。希望下面这些文字希望能对屏幕前的你有所帮助。
 
-In line with the original intention of sharing and communication, I briefly sorted out my mental journey and gains in the past three years of work, hoping to be helpful to you in front of the screen.
+## 告别学生心态，正确认识职场
 
-It should be noted that although everyone's growth progress is different, there are always some common problems on the road of life, which are worth learning from.
+工作伊始，第一件重要的事情就是告别学生心态。职场不是课堂，公司也不是学校。工作的本质是拿钱办事，项目是工作内容最常见的划分单位，目的是解决问题或者创造价值，目标是事情做完后的量化指标，方案是开展整个项目时参考的蓝图。在日常工作中，态度要积极主动，做事来要胆大心细，对领导要尊重，对同事要礼貌。各个工作场景的说话套路、做事套路、撰文套路，都要慢慢积累。工作之余，不仅要通过额外学习来弥补欠缺知识、巩固常用技能，还要注重身体锻炼和爱好培养。
 
-## Say goodbye to the student mentality and get a correct understanding of the workplace
+基于以上原则，有如下易犯的错误：
 
-At the beginning of the work, the first important thing is to say goodbye to the student mentality. The workplace is not a classroom, and the company is not a school. The essence of work is "taking money and do things for the boss". Projects are the most common division of work content. The purpose is to solve problems or create value.The goal is the quantitative indicator after things are done, and the plan is the blueprint for reference when carrying out the entire project.In daily work, you must be proactive, bold and careful in doing things, respect your leaders, and be polite to your colleagues. The speaking routines, doing routines, and writing routines of each work scene must be accumulated slowly. In addition to work, not only to make up for the lack of knowledge and consolidate common skills through additional learning, but also to pay attention to physical exercise and hobbies.
+- 你不是来学东西的，你是来创造价值的；学习是自己的事情，公司不会因为你学习而表扬你；公司领导只关心事情的结果，但自己得为过程负责，勤总结、勤反思，持续改进，持续提效；
+- 对于刚毕业的应届生而言，你的潜力、背景、态度和工作热情，是比当下的能力更吸引人的。所以，工作态度一定要积极，工作中要大胆试错，汇报时要大大方方地陈述自己的工作内容;
+- 事情做好做不好，汇报要及时；先结果后过程，先重点后细节；有问题及时说，不要自己抗，工作中如果遇到一个很难的事情，那肯定是安排给了错误的人；
+- 广积粮，缓称王。先做好领导安排的事情，然后搞清楚领导为什么这么做，然后思考领导接下来要做什么，最后思考有没有更好的做法；
+- 春风得意莫出头，左右为难要隐忍。
 
-Based on the above principles, we list several mistakes here:
+## 选对公司，跟对领导，交对同事
 
-- You are not here to learn, you are here to create value; learning is your own business, and the company will not praise you for your learning; company leaders only care about the results of things, but you have to be responsible for the process, summarize and reflect frequently , continuous improvement, continuous efficiency improvement;
-- For fresh graduates, your potential, background, attitude and work enthusiasm are more attractive than your current ability. Therefore, the work attitude must be positive, bold trial and error must be made in the work, and the content of work must be stated openly when reporting;
-- If things are done well, reports should be made in a timely manner; the results should be followed by the process, and the key points should be followed by the details; if there is a problem, speak up in time, and don’t resist yourself. If you encounter a difficult task at work, it must be assigned to the wrong person；
-- Accumulate grain widely and become king slowly. First do the things arranged by the leader, then figure out why the leader did what he did, then think about what the leader will do next, and finally think about whether there is a better way；
-- Don't stand out when you are proud of the spring breeze, and endure the dilemma.
-
-## Choose the right company, follow the right leader, and make friends with the right colleagues
-
-The company is the first level of choice, and the factors generally considered include the size of the platform, development prospects, remuneration and company culture. In particular, company culture should not be underestimated, it determines the tone of work from the top to the grassroots. Leadership is the second-tier choice, and the relationship with direct leaders is the most important of all relationships in the workplace. Because the leader decides your own "power of life and death", it also affects your mood at work, so you must get along well with the leader; colleagues are the third choice, and there is a saying on the Internet called "Don't treat colleagues as friends". This sentence is actually too absolute. Although most of my colleagues are passers-by, some colleagues may become partners in future entrepreneurship, and some colleagues may become my life partners. Therefore, when getting along with colleagues, you must be selective. When you meet like-minded people, you can make friends with them, and keep the rest polite. The water in the workplace is very deep. Everyone just comes to work. Everyone has a lot of unknown sides. There are many unknown "high-level" players around me. Some people seem to have a lukewarm job, and sometimes they play games. They chat privately and find out that they are graduates from top universities, and they come to play in the Internet industry because they earn more money; Fly; there are also people who don’t see anyone other than work, busy with dating, newly married or having a second child. Everyone has their own way of life, slowly find like-minded people.
+公司是第一层选择，一般考虑的因素包括平台大小、发展前景、薪酬待遇以及公司文化。尤其是公司文化不要小瞧，决定了从高层到基层的工作调性。领导是第二层选择，和直系领导的关系，是职场所有关系中最重要的。因为领导决定自己的“生杀大权”，也影响你工作的心情，所以和领导一定要好好相处；同事是第三层选择，网上流传一句话，叫做“不要拿同事当朋友”。这句话其实过于绝对，虽说大部分同事都是过客，但有的同事也许会成为未来创业的伙伴，也有的同事会成为自己的人生伴侣。所以，与同事相处，要带有选择性，遇到志同道合的人可以深交，其余的保持礼貌即可。职场水很深，大家只是来工作而已，每个人都有很多不为人知的一面。我周围就有很多名不见经传的“高段位”玩家。有人看似工作不温不火，有时还玩玩游戏，私下聊天才得知人家是顶尖学府毕业，看钱挣的多来互联网行业玩玩；有人在一线城市有户口有房，周末全国景点随心飞；也有人除了工作人不见影，忙着恋爱、新婚或二胎。人各有各的活法，慢慢去寻找志同道合的人。
