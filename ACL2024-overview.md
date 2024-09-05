@@ -1,6 +1,3 @@
-<!doctype html>
-<html lang="zh-CN">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,8 +6,7 @@
     <title>youngfoo</title>
     <link rel="stylesheet" href="./bootstrap.min.css">
 </head>
-<body>
-  <div class="container>
+
 <h1 class="text-center">ACL 2024 Overview</h1>
 <hr>
 
@@ -104,8 +100,6 @@ LoRA 采用轻量级模块为每个下游任务或领域定制大型语言模型
 
 检索增强生成（RAG）通过整合检索到的额外信息来增强大型语言模型（LLMs）的性能。然而，研究表明，LLMs在有效利用检索到的信息方面仍面临挑战，甚至可能忽视这些信息或被其误导。主要原因是LLMs的训练没有明确让LLMs学会如何利用质量参差不齐的检索文本作为输入。在本文中，我们提出了一种新的视角，将LLMs在RAG中的角色视为“信息精炼器”，这意味着无论检索到的文本的正确性、完整性或有用性如何，LLMs都能持续地将检索文本中的知识与模型参数相结合，生成比检索文本更简洁、准确和完整的文本。为此，我们提出了一种名为INFO-RAG的信息精炼训练方法，该方法以无监督的方式优化用于RAG的LLMs。INFO-RAG成本低廉，适用于各种任务。在包括问答、槽位填充、语言建模、对话和代码生成在内的多样化任务的11个数据集上进行的零样本预测广泛实验表明，INFO-RAG将LLaMA2的性能平均提高了9.39%的相对点。INFO-RAG还展示了在RAG的上下文学习和鲁棒性方面的优势。
 
-</div>
-</body>
 <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
 <script src="https://fastly.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"
 integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
@@ -129,5 +123,4 @@ document.addEventListener("DOMContentLoaded", function () {
         throwOnError: false
     });
 });
-</script> -->
-</html>
+</script> --> 
