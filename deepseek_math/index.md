@@ -31,7 +31,7 @@ $$
 - $r_{\varphi}$是reward model;
 - $\pi_{ref}$是reference model;
 
-由于PPO中的value function是一个和初始SFT大小差不多的模型，所以会带来很大的内存和计算开销。
+由于PPO中的value function是一个和policy model大小差不多的模型，所以会带来很大的内存和计算开销。
 
 在RL训练中，为了减少方差，value function会被作为优势计算的baseline
 
@@ -41,6 +41,12 @@ $$
 
 $$
 
+$$
+
+这里的优势函数不再是output级别的，
+
+$$
+A_{i,t} = \frac{r_i - mean(r)}{std(r)}
 $$
 
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex.min.js" integrity="sha384-J+9dG2KMoiR9hqcFao0IBLwxt6zpcyN68IgwzsCSkbreXUjmNVRhPFTssqdSGjwQ" crossorigin="anonymous"></script>
