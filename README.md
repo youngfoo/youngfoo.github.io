@@ -1,1 +1,2 @@
-# youngfoo.github.io
+- [Steve Job's Stanford University Commencement Speech. 2005](/speech/steve_job_stanford_university_commencement_speech)
+- 
